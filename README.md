@@ -42,7 +42,7 @@ ML link :- (https://github.com/FinEasyAi/ML)
 How to Run the Project?
 -----------------------------------------------------------------------------------------------------------
 
-#To run the project you can use the **Docker**.
+# To run the project you can use the **Docker**.
 First, clone the repository and move into the project directory.
 
 git clone https://github.com/FinEasyAi/combinedFrontend.git
@@ -57,7 +57,7 @@ OPEN http://localhost:5173
 
 application is ready
 
-#TO CLOSE
+# TO CLOSE
 Stop services and remove volumes, networks, and containers for a clean reset.
 
 docker compose down -v
