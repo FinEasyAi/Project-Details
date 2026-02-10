@@ -1,6 +1,6 @@
 MomoTech
 
-# SPONSOR TRACK & HOTFOOT Ai CHALLENGE
+# SPONSOR TRACK & HOTFOOT Ai CHALLENGE (CONTACT NO. 6374183469)
 ## We Have Used BackBoard Api for the chatbot preperation as they were the sponsor!
 
 We team MomoTech have built **FinEasy**.**FinEasy** is a financial analyzer project developed as part of DevSoc26, where we participated in the Hotfoot AI Challenge and successfully implemented both assigned tasks. The project focuses on building a modular, scalable AI-driven system with clear separation between frontend interfaces, backend services, audio processing, and data handling.
@@ -32,6 +32,11 @@ landing_basic_functiionality **3000**
 
 Also we have kept all of them into one **Combinedrepo** for easier usecase. So the repo link for it is:-
 combinedFrontend (https://github.com/FinEasyAi/combinedFrontend)
+
+backend repo link:- (https://github.com/FinEasyAi/backend)
+
+ML link :- (https://github.com/FinEasyAi/ML)
+
 
 -----------------------------------------------------------------------------------------------------------
 How to Run the Project?
