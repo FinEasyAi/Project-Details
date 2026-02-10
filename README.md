@@ -1,6 +1,9 @@
 MomoTech
+#SPONSOR TRACK & HOTFOOT Ai CHALLENGE
+##We Have Used BackBoard Api for the chatbot preperation as they were the sponsor!
 
 We team MomoTech have built **FinEasy**.**FinEasy** is a financial analyzer project developed as part of DevSoc26, where we participated in the Hotfoot AI Challenge and successfully implemented both assigned tasks. The project focuses on building a modular, scalable AI-driven system with clear separation between frontend interfaces, backend services, audio processing, and data handling.
+
 
 The primary objective of the project is to analyze financial data through multiple interaction modes, including audio and text, while maintaining a robust pipeline that can be extended for real-world use cases. The architecture emphasizes clarity, independent service deployment, and smooth user flow from landing to analysis.
 
