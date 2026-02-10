@@ -29,4 +29,50 @@ landing_basic_functiionality **3000**
 Also we have kept all of them into one **Combinedrepo** for easier usecase. So the repo link for it is:-
 combinedFrontend (https://github.com/FinEasyAi/combinedFrontend)
 
+-----------------------------------------------------------------------------------------------------------
+How to Run the Project?
+-----------------------------------------------------------------------------------------------------------
 
+To run the project you can use the **Docker**.
+First, clone the repository and move into the project directory.
+
+git clone https://github.com/FinEasyAi/combinedFrontend.git
+cd combinedFrontend
+
+
+Build all Docker images defined in the project.
+
+docker compose build
+
+
+Start all services in detached mode.
+
+docker compose up -d
+
+
+Check the status of all running containers.
+
+docker compose ps
+
+
+View logs for all services.
+
+docker compose logs -f
+
+
+View logs for a specific service.
+
+docker compose logs -f <service_name>
+
+
+Stop all running services.
+
+docker compose down
+
+
+Stop services and remove volumes, networks, and containers for a clean reset.
+
+docker compose down -v
+
+
+After the services start successfully, the application will be available on localhost ports 5173, 5177, 5175, 5567, 8002, 5432, and 3000.
